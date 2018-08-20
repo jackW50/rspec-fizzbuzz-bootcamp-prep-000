@@ -12,6 +12,6 @@ def fizzbuzz(int)
     "FizzBuzz"
   
   else 
-    "nil"
+    nil
   end
 end 
